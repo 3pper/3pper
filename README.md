@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=s+s+s+s+s+s+s+s+s+s+s+s+s+s+s+s+s)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=s+s+s+s+s+s+s+s+s+s+s+s+s+s+s+s+s)](https://git.io/typing-svg) 
+
 ## Hi , i'm ios developer 👋
 
 ## Interesting project's
@@ -8,6 +10,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=s+s+s+s+s+s+s+s+s+s+s+s+s+s+s+s+s)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=s+s+s+s+s+s+s+s+s+s+s+s+s+s+s+s+s)](https://git.io/typing-svg) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Work+hard+play+hard)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Work+hard+play+hard)](https://git.io/typing-svg) 
 
 
