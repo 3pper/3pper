@@ -6,7 +6,7 @@
 
 ## Interesting project's
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3pper&repo=Music-app)](https://github.com/3pper/Music-app) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3pper&repo=Quiz-game)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3pper&repo=Music-app)](https://github.com/3pper/Music-app) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3pper&repo=Quiz-game)](https://github.com/3pper/Quiz-game)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3pper)](https://github.com/anuraghazra/github-readme-stats)
 
